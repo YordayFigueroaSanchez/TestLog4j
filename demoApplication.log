@@ -1,8 +1,11 @@
-2020-02-01 15:12:58 DEBUG Principal:17 - Log4j appender configuration is successful !!
-2020-02-01 15:25:29 DEBUG Principal:17 - Log4j appender configuration is successful !!
-2020-02-01 15:26:27 DEBUG Principal:17 - Log4j appender configuration is successful !!
-2020-02-01 15:26:27 DEBUG Principal:13 - Log4j appender - Clase Uno
-2020-02-01 15:26:27 DEBUG Principal:13 - Log4j appender - Clase Dos
-2020-02-01 15:27:12 DEBUG Principal:17 - Log4j appender configuration is successful !!
-2020-02-01 15:27:12 DEBUG ClaseUno:13 - Log4j appender - Clase Uno
-2020-02-01 15:27:12 DEBUG ClaseDos:13 - Log4j appender - Clase Dos
+2020-02-01 16:32:33 FATAL Principal:19 - Principal - fatal
+2020-02-01 16:32:33 ERROR Principal:20 - Principal - error
+2020-02-01 16:32:33 FATAL ClaseUno:13 - ClaseUno - fatal
+2020-02-01 16:32:33 ERROR ClaseUno:14 - ClaseUno - error
+2020-02-01 16:32:33 WARN  ClaseUno:15 - ClaseUno - warn
+2020-02-01 16:32:33 INFO  ClaseUno:16 - ClaseUno - info
+2020-02-01 16:32:33 DEBUG ClaseUno:17 - ClaseUno - debug
+2020-02-01 16:32:33 FATAL ClaseDos:13 - ClaseDos - fatal
+2020-02-01 16:32:33 ERROR ClaseDos:14 - ClaseDos - error
+2020-02-01 16:32:33 WARN  ClaseDos:15 - ClaseDos - warn
+2020-02-01 16:32:33 INFO  ClaseDos:16 - ClaseDos - info

@@ -10,7 +10,12 @@ public class ClaseUno {
 	
 	public void imprimirUno() {
 		
-		 logger.debug("Log4j appender - Clase Uno");
+		logger.fatal("ClaseUno - fatal");
+        logger.error("ClaseUno - error");
+        logger.warn("ClaseUno - warn");
+        logger.info("ClaseUno - info");
+        logger.debug("ClaseUno - debug");
+        logger.trace("ClaseUno - trace");
 		
 	}
 
