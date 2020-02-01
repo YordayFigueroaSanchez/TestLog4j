@@ -1,1 +1,8 @@
 2020-02-01 15:12:58 DEBUG Principal:17 - Log4j appender configuration is successful !!
+2020-02-01 15:25:29 DEBUG Principal:17 - Log4j appender configuration is successful !!
+2020-02-01 15:26:27 DEBUG Principal:17 - Log4j appender configuration is successful !!
+2020-02-01 15:26:27 DEBUG Principal:13 - Log4j appender - Clase Uno
+2020-02-01 15:26:27 DEBUG Principal:13 - Log4j appender - Clase Dos
+2020-02-01 15:27:12 DEBUG Principal:17 - Log4j appender configuration is successful !!
+2020-02-01 15:27:12 DEBUG ClaseUno:13 - Log4j appender - Clase Uno
+2020-02-01 15:27:12 DEBUG ClaseDos:13 - Log4j appender - Clase Dos

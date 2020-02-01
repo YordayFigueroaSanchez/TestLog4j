@@ -15,6 +15,12 @@ public class Principal {
  
         //Log in console in and log file
         logger.debug("Log4j appender configuration is successful !!");
+        
+        ClaseUno uno = new ClaseUno();
+        uno.imprimirUno();
+        
+        ClaseDos dos = new ClaseDos();
+        dos.imprimirUno();
     }
 
 }
